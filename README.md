@@ -1,11 +1,26 @@
 # L_Pancorbo_S_Ruiperez-Campillo_et_al_IEEE-OJEMB_2024_HVF
-This repository contains the functions that compute the analysis of the Vector Field Heterogeneity (VFH) metric from omnipolar electrograms in high density catheters, corresponding to the publication: L. Pancorbo, S. Ruipérez-Campillo et al., IEEE-OJEMB, 2024
 
-Any individual benefiting from any of this code must cite the work as (APA): Pancorbo, L., Ruipérez-Campillo, S., Tormos, Á., Guill, A., Cervigón, R., Alberola, A., Chorro, F.J., Millet, J. & Castells, F. (2024). Vector Field Heterogeneity for the Assessment of Locally Disorganised Cardiac Electrical Propagation Wavefronts from High-density Multielectrodes. IEEE Open Journal of Engineering in Medicine and Biology.
+This repository contains the functions that compute the analysis of the Vector Field Heterogeneity (VFH) metric from omnipolar electrograms in high-density catheters, corresponding to the publication: L. Pancorbo, S. Ruipérez-Campillo et al., IEEE-OJEMB, 2024.
 
-BibTex:
+## Citation
+Any individual benefiting from any of this code must cite the work as (APA):
 
-@article{pancorbo2023vector, title={Vector Field Heterogeneity for the Assessment of Locally Disorganised Cardiac Electrical Propagation Wavefronts from High-density Multielectrodes}, author={Pancorbo, Luc{'\i}a and Ruip{'e}rez-Campillo, Samuel and Tormos, {'A}lvaro and Guill, Antonio and Cervig{'o}n, Raquel and Alberola, Antonio and Chorro, Francisco Javier and Millet, Jos{'e} and Castells, Francisco}, journal={IEEE Open Journal of Engineering in Medicine and Biology}, year={2024}, volume={5}, pages={32-44}, publisher={IEEE} }
+
+Pancorbo, L., Ruipérez-Campillo, S., Tormos, Á., Guill, A., Cervigón, R., Alberola, A., Chorro, F.J., Millet, J. & Castells, F. (2024). Vector Field Heterogeneity for the Assessment of Locally Disorganised Cardiac Electrical Propagation Wavefronts from High-density Multielectrodes. IEEE Open Journal of Engineering in Medicine and Biology.
+
+
+### BibTex
+
+
+@article{pancorbo2023vector,
+title={Vector Field Heterogeneity for the Assessment of Locally Disorganised Cardiac Electrical Propagation Wavefronts from High-density Multielectrodes},
+author={Pancorbo, Lucía and Ruipérez-Campillo, Samuel and Tormos, Álvaro and Guill, Antonio and Cervigón, Raquel and Alberola, Antonio and Chorro, Francisco Javier and Millet, José and Castells, Francisco},
+journal={IEEE Open Journal of Engineering in Medicine and Biology},
+year={2024},
+volume={5},
+pages={32-44},
+publisher={IEEE}
+}
 
 Please read the description below for usage instructions.
 
